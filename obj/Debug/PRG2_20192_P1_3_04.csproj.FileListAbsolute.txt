@@ -1,0 +1,4 @@
+C:\Users\Anggian\source\repos\PRG2_20192_P1_3_04\bin\Debug\PRG2_20192_P1_3_04.exe
+C:\Users\Anggian\source\repos\PRG2_20192_P1_3_04\bin\Debug\PRG2_20192_P1_3_04.pdb
+C:\Users\Anggian\source\repos\PRG2_20192_P1_3_04\obj\Debug\PRG2_20192_P1_3_04.exe
+C:\Users\Anggian\source\repos\PRG2_20192_P1_3_04\obj\Debug\PRG2_20192_P1_3_04.pdb
